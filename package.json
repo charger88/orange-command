@@ -1,6 +1,6 @@
 {
   "name": "orange-command",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Orange.Command - generic functionality for CLI scripts",
   "main": "index.js",
   "scripts": {
